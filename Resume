@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap Theme </title>
+  <title> Bootstrap Theme </title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -50,7 +50,7 @@
   }
   </style>
 </head>
-</body>
+<body>
 
 <!-- Navbar -->
 <nav class="navbar navbar-default">
